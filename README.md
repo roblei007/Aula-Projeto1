@@ -1,8 +1,8 @@
-# Aula-Projeto1
+# ada-projeto1
 
-# Técnicas de Programação (Python)
+## Técnicas de Programação (Python)
 
-Repositório do curso **Técnicas de Programação (Python)**, parte da trilha **Analista de Dados**.
+Repositório do curso Técnicas de Programação (Python), parte da trilha Analista de Dados.
 
 ## Sobre o curso
 
@@ -10,42 +10,22 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 
 ## Conteúdo
 
-- **Aula 1** — Git, GitHub e revisão de Python
-- **Aula 2** — NumPy: arrays e operações vetorizadas
-- **Aula 3** — Pandas: Series, DataFrames e leitura de dados
-- **Aula 4** — Limpeza e exploração de dados
-- **Aula 5** — Integração e workflow colaborativo com Git
-- **Projeto final** — análise de um conjunto de dados em grupo
+* Aula 1 — Git, GitHub e revisão de Python
+* Aula 2 — NumPy: arrays e operações vetorizadas
+* Aula 3 — Pandas: Series, DataFrames e leitura de dados
+* Aula 4 — Limpeza e exploração de dados
+* Aula 5 — Integração e workflow colaborativo com Git
+* Projeto final — análise de um conjunto de dados em grupo
 
-## Pré-requisitos
 
-- Conhecimento básico de Python (variáveis, condicionais, laços, listas, dicionários, funções, list comprehension e tratamento de exceções)
-- Conta no GitHub
-- Ambiente de programação: Google Colab ou VS Code com Python instalado
 
-## Como usar este repositório
+\## Teste
 
-1. Faça um clone deste repositório no seu ambiente
-2. Cada aula tem um notebook com os exercícios e desafios propostos
-3. Resolva os exercícios diretamente no notebook
-4. Faça commit e push a cada aula concluída
+Testando as funcionalidades do Git.
 
-## Estrutura
 
-```
-.
-├── README.md
-├── aula_01/
-│   └── exercicios_aula_01.ipynb
-├── aula_02/
-├── aula_03/
-├── aula_04/
-├── aula_05/
-└── projeto_final/
-```
 
-## Roberto
+## Autor
 
-Nome do aluno — [github.com/roblei007](https://github.com/roblei007)
-
+— [Arthur de Souza](https://github.com/arthurgsouza/)
 
